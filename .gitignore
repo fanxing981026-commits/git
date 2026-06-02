@@ -1,0 +1,15 @@
+.DS_Store
+.AppleDouble
+.LSOverride
+
+.vscode/
+.idea/
+
+node_modules/
+dist/
+build/
+coverage/
+
+*.log
+*.tmp
+*.swp
